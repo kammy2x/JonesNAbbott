@@ -13,7 +13,7 @@ def setup():
     "Spicy Shrimp Scampi Fritta":9.49,
     "Stuffed Mushrooms":7.99, 
     "Spinach Artichoke Dip":8.29,
-    "Sweet Chilli Shrimp":9.79,}
+    "Sweet Chilli Shrimp":9.79}
     
     appnum = 0
     textSize(20)
